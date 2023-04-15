@@ -1,5 +1,8 @@
 # The-game-of-Pig-Dice-game-
 Dice game (for two players)
+
+PLAY HERE : https://div9411.github.io/The-game-of-Pig-Dice-game-/
+
 (Game Flowchart included)
 
 HOW TO PLAY:
